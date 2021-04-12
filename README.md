@@ -5,3 +5,5 @@ I highly recommend to use Google Colab to run the notebooks by clicking on the b
 
 In order for the code to work, the datesets must be placed into the folder `./datasets`. Those files weigh a total of about 97Mb and can be found in the competition [data section](https://www.kaggle.com/c/competitive-data-science-predict-future-sales/data).
 
+The current model placed in the top 4% of the leaderboard, precisely around 400th over more than 10000 teams.
+
