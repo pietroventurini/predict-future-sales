@@ -3,7 +3,7 @@ The notebooks in this repository contain the code I wrote to solve the Kaggle co
 
 I highly recommend to use Google Colab to run the notebooks by clicking on the badge [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() that can be found at the beginning of each notebook.
 
-In order for the code to work, the datesets must be placed into the folder `./datasets`. Those files weigh a total of about 97Mb and can be found in the competition [data section](https://www.kaggle.com/c/competitive-data-science-predict-future-sales/data).
+In order for the code to work, the datasets must be placed into the folder `./datasets`. Those files weigh a total of about 97Mb and can be found in the competition [data section](https://www.kaggle.com/c/competitive-data-science-predict-future-sales/data).
 
 ### Notebooks:
 1. [Exploratory Data Analyisis + Feature Engineering](https://colab.research.google.com/drive/1LAlml5mQZEdP0JpQU8AUndb7u-jsi-uB?usp=sharing)
